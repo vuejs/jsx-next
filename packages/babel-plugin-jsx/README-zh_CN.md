@@ -14,7 +14,7 @@
 npm install @vue/babel-plugin-jsx -D
 ```
 
-配置 Babel
+配置 Babel （.babelrc）
 
 ```js
 {
